@@ -43,9 +43,11 @@ For a shortcut, copy `Toggle FiveM Shaders.example.bat`, replace its placeholder
 
 ## Project structure
 
-- `toggle_shaders.py`  -  installer/remover and menu.
-- `files/configs/high` and `files/configs/low`  -  GTA settings applied for each mode.
-- `files/mods` and `files/plugins`  -  files copied into FiveM.
+- `toggle_shaders.py`, installer/remover and menu.
+- `files/configs/high` and `files/configs/low`, GTA settings applied for each mode.
+- `files/mods` and `files/plugins`, files copied into FiveM.
+
+<!-- documentation-extras -->
 
 ## Project flow
 
@@ -56,3 +58,20 @@ flowchart LR
     Choice -->|Remove| Delete["Delete installed shader files"]
     Choice --> Settings["Replace GTA settings file"]
 ```
+
+<details>
+<summary>Documentation and maintenance notes</summary>
+
+- Commands and behaviour in this README are derived from the files currently committed to the repository.
+- External services, games, websites, browser APIs, and file formats can change independently of this project.
+- When reporting a problem, include the operating system, runtime version, exact command, and complete error text with secrets removed.
+
+</details>
+
+## Contributing
+
+Focused fixes are welcome. Before changing behaviour, open an issue describing the problem and intended result. Keep credentials, generated secrets, personal data, and machine-specific configuration out of commits. Update this README whenever commands, configuration, paths, or supported behaviour change.
+
+## Licence
+
+No project-level licence is currently declared in this repository. Copyright remains with the repository owner and other contributors; obtain permission before redistributing or incorporating the code elsewhere. Third-party assets and dependencies retain their own licences.
