@@ -2,6 +2,12 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/fivem-shaders-toggle)](https://github.com/KeyErrorFinn/fivem-shaders-toggle/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/fivem-shaders-toggle)](https://github.com/KeyErrorFinn/fivem-shaders-toggle/issues)
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=fff" />
+  <img alt="FiveM" src="https://img.shields.io/badge/FiveM-F40552?logo=fivem&logoColor=fff" />
+</p>
+
 A Windows command-line utility for installing or removing a bundled FiveM graphics/shader setup and switching between matching GTA V settings files.
 
 ## Warning
