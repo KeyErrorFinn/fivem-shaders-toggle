@@ -1,6 +1,9 @@
 # FiveM Shaders Toggle
 
-[![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/fivem-shaders-toggle)](https://github.com/KeyErrorFinn/fivem-shaders-toggle/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/fivem-shaders-toggle)](https://github.com/KeyErrorFinn/fivem-shaders-toggle/issues)
+<p align="center">
+  <a href="https://github.com/KeyErrorFinn/fivem-shaders-toggle/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/fivem-shaders-toggle" /></a>
+  <a href="https://github.com/KeyErrorFinn/fivem-shaders-toggle/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/KeyErrorFinn/fivem-shaders-toggle" /></a>
+</p>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
