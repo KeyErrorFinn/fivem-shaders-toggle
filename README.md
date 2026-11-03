@@ -1,6 +1,10 @@
 # FiveM Shaders Toggle
 
 <p align="center">
+  <img src="assets/logo.svg" alt="fivem-shaders-toggle logo" width="480" />
+</p>
+
+<p align="center">
   <a href="https://github.com/KeyErrorFinn/fivem-shaders-toggle/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/fivem-shaders-toggle" /></a>
   <a href="https://github.com/KeyErrorFinn/fivem-shaders-toggle/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/KeyErrorFinn/fivem-shaders-toggle" /></a>
 </p>
